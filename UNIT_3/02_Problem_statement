@@ -1,0 +1,1 @@
+To develop a console-based text editor using C++ and a doubly linked list that supports writing text, deleting the last N characters, undoing and redoing edits, displaying the current text, and maintaining version history. Each node stores a snapshot of the text. When a new edit is performed after Undo, the previous Redo history must be deleted.
