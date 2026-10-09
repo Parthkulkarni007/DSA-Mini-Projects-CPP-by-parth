@@ -1,0 +1,26 @@
+## Algorithm
+
+1. **Start** the program.
+2. Create the initial node with empty text and set `head` and `current` to this node.
+3. Display the menu containing the following options:
+
+   * Write text
+   * Delete characters
+   * Undo
+   * Redo
+   * Display text
+   * Show history
+   * Exit
+4. Accept the user's choice.
+5. Perform the selected operation:
+
+   * **Write:** Append new text to the current text and create a new node to store the updated text.
+   * **Delete:** Remove the specified number of characters from the end of the current text and create a new node to store the updated text.
+   * **Undo:** If a previous node exists, move `current` to the previous node.
+   * **Redo:** If a next node exists, move `current` to the next node.
+   * **Display:** Print the text stored in the current node.
+   * **Show History:** Traverse the linked list from `head` and display the stored text states.
+   * **Exit:** Terminate the program.
+6. Whenever a new write or delete operation is performed after undoing, remove the redo history after the current node.
+7. Repeat the menu and operations until the user selects Exit.
+8. **Stop** the program.
