@@ -6,12 +6,12 @@ This project implements a simple text editor in C++ using a Doubly Linked List t
 
 ## 📂 Project Contents
 
-- [Code](01_Code/main.cpp/)
-- [Problem Statement](02_Problem_Statement/problem-statement.md/)
-- [Objectives](03_Objectives/objectives.md/)
-- [Algorithm](04_Algorithm/algorithm.md/)
-- [Flowchart](05_Flowchart/flowchart.png/)
-- [Output](06_Output/)
+- [Code](UNIT_3/01_code/)
+- [Problem Statement](UNIT_3/02_Problem_statement/)
+- [Objectives](UNIT_3/03_Objectives/)
+- [Algorithm](UNIT_3/04_Algorithm/)
+- [Flowchart](UNIT_3/05_Flowchart.jpeg/)
+- [Output](UNIT_3/06_Output/)
 - [Documentation](07_Documentation/Train_Coach_Management_System.pdf/)
 
 
