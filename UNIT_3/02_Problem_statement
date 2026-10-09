@@ -1,1 +1,7 @@
-To develop a console-based text editor using C++ and a doubly linked list that supports writing text, deleting the last N characters, undoing and redoing edits, displaying the current text, and maintaining version history. Each node stores a snapshot of the text. When a new edit is performed after Undo, the previous Redo history must be deleted.
+## Problem Statement
+
+To develop a simple text editor using a **Doubly Linked List in C++** that supports basic text editing 
+operations such as writing, deleting, undoing, redoing, and displaying text. Each node stores a snapshot 
+of the text, while the links between nodes maintain the editing history. The system should allow users to 
+move backward and forward through previous text states using the undo and redo operations.
+
