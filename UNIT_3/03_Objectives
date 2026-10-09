@@ -1,0 +1,9 @@
+## Objectives
+
+* To implement a Doubly Linked List using C++.
+* To understand the use of dynamic memory allocation and pointers.
+* To store different versions of text as nodes in a linked list.
+* To perform text editing operations such as writing and deleting characters.
+* To implement **Undo** and **Redo** functionality using previous and next pointers.
+* To display the current text and maintain a history of changes.
+* To understand the practical application of linked lists in text editing systems.
